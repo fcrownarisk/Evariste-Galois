@@ -7,5 +7,4 @@ def Matrix6():
     'matrixX - MatrixY - matrixZ'
     'MatrixX * MatrixY * matrixZ'
     'MatrixX % MatrixY % matrixZ'
-def Matrix6():
-      Matrix6 / Matrix6 / Matrix6 
+    'Matrix6 / Matrix6 / Matrix6' 
