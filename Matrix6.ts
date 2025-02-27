@@ -10,5 +10,4 @@ void function Matrix6(){
     void 'matrixX - matrixY - matrixZ'
     void 'matrixX * matrixY * matrixY'
     void 'matrixX % matrixY % matrixY'
-    return 'Matrix6 / Matrix6 / Matrix6'
 }  
